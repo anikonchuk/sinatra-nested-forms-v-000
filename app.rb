@@ -1,3 +1,6 @@
+require 'pry'
+binding.pry
+
 require './environment'
 
 module FormsLab
