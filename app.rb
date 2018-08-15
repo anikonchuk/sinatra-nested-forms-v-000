@@ -3,6 +3,8 @@ binding.pry
 
 require './environment'
 
+binding.pry
+
 module FormsLab
   class App < Sinatra::Base
 
